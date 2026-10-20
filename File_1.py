@@ -1,3 +1,2 @@
-print("Hello World")
-print("Hello World")
-print("Hello World")
+first_part = "Hello"
+second_part = "World"
